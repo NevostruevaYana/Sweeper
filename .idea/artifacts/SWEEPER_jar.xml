@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SWEEPER:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SWEEPER_jar</output-path>
+    <root id="archive" name="SWEEPER.jar">
+      <element id="module-output" name="SWEEPER" />
+    </root>
+  </artifact>
+</component>
